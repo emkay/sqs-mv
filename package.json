@@ -1,0 +1,30 @@
+{
+  "name": "sqs-mv",
+  "version": "1.0.0",
+  "description": "move SQS messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emkay/sqs-mv.git"
+  },
+  "keywords": [
+    "sqs",
+    "move",
+    "aws"
+  ],
+  "author": "Michael Matuzak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emkay/sqs-mv/issues"
+  },
+  "homepage": "https://github.com/emkay/sqs-mv#readme",
+  "dependencies": {
+    "sqs": "^1.4.0"
+  },
+  "devDependencies": {
+    "standard": "^6.0.8"
+  }
+}
